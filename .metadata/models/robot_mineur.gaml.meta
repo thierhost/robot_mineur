@@ -1,0 +1,10 @@
+#
+#Sun Jan 15 22:56:58 GMT 2017
+architectures=fsm
+operators=envelope~-~internal_at~rnd~one_of~inside~.~\=~empty~+~any_location_in~as~rgb~neighbors_at
+plugins=msi.gama.core
+statements=init~set~state~do~arg~reflex~if~else~aspect~draw~create~save~output~display~display_grid~image~display_population~chart~data~monitor
+skills=reflex~moving~fsm~grid
+constants=red
+types=geometry~string~list~int~unknown~point~agent~rgb~float~bool~date~container
+actions=debug~error~tell~write~die~_init_~_step_~halt~pause~follow~goto~move~wander
